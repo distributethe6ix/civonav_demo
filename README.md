@@ -29,3 +29,8 @@ Wed Jan 25 2023
 - Setup Gateway and Virtual Service resources for Istio to expose LinkFree
 - Deploy LinkFree and expose via Istio
   
+Inlets
+- Use Digital Ocean
+- tor1
+
+
