@@ -1,4 +1,4 @@
-# civonav_demo
+# Edge Computing
 
 ## Description
 We are going to create an Edge Compute demo that will consist of a variety of Open Source tech + maybe some closed source tech as well.
